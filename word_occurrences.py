@@ -1,3 +1,9 @@
+"""
+CP1404
+Hex codes for word occurrences
+Name：LIU YUHAO
+"""
+
 def main():
     emails = {}
     email = input("Please enter your email: ")
